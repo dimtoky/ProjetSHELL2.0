@@ -1,0 +1,25 @@
+1- gestor de procesos
+2- gestor de directorio
+3- Administrador de archivos
+4- Dispositivos Administrador
+5- Shell Administrador
+1- gestor de pantalla
+2- Visualizar proceso detallado
+3- Proceso de matanza
+0- Frente
+1- Directorio de visualización
+2- Mostrar derictory detallada
+3- eliminar derecorty
+4- por el camino actual
+1- Crear un nuevo archivo
+1- Eliminar un archivo
+2- Archivo abierto
+4- archivo de edición
+1- expulsar el disco
+1- Configure la Shell 
+2- el pastel es una mentira
+tu elección
+Cual es el nombre del proceso?
+Cual es el nombre del directorio?
+Cual Es el nombre del archivo?
+Shell 2.0: Modo de menu

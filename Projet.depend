@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1449969687 source:c:\users\dimtoky\documents\codeblocks\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+
+1449969687 .h"
+
+1449969687 source:c:\users\dimtoky\documents\codeblocks\projet\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+
+1449969296 c:\users\dimtoky\documents\codeblocks\projet\fonctions.h
+
+1450177540 source:/home/dimtoky/CodeBlocks/Projet/Fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"Fonctions.h"
+
+1450109112 /home/dimtoky/CodeBlocks/Projet/Fonctions.h
+
+1450192007 source:/home/dimtoky/CodeBlocks/Projet/main.c
+	<stdio.h>
+	<unistd.h>
+	<sys/wait.h>
+	<signal.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"Fonctions.h"
+
+1449969296 source:/home/dimtoky/CodeBlocks/Projet/Fonctions.h
+
+1450106074 /home/dimtoky/CodeBlocks/Projet/ModeLangue.h
+
+1450106923 source:/home/dimtoky/CodeBlocks/Projet/ModeLangue.c
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Fonctions.h"
+
+1450192938 source:/home/achraf/Desktop/Projet2/Projet/Fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"Fonctions.h"
+
+1450196680 /home/achraf/Desktop/Projet2/Projet/Fonctions.h
+
+1450208998 source:/home/achraf/Desktop/Projet2/Projet/main.c
+	<stdio.h>
+	<unistd.h>
+	<sys/wait.h>
+	<signal.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"Fonctions.h"
+
+1450106924 source:/home/achraf/Desktop/Projet2/Projet/ModeLangue.c
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Fonctions.h"
+
+1450192938 source:/home/aeriel/Documents/Projet2/Projet/Fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"Fonctions.h"
+
+1450196680 /home/aeriel/Documents/Projet2/Projet/Fonctions.h
+
+1450210799 source:/home/aeriel/Documents/Projet2/Projet/main.c
+	<stdio.h>
+	<unistd.h>
+	<sys/wait.h>
+	<signal.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"Fonctions.h"
+
+1450106924 source:/home/aeriel/Documents/Projet2/Projet/ModeLangue.c
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Fonctions.h"
+
+1450278060 source:/home/dimtoky/Projet.final/Projet/Fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"Fonctions.h"
+
+1450225116 /home/dimtoky/Projet.final/Projet/Fonctions.h
+
+1450279256 source:/home/dimtoky/Projet.final/Projet/main.c
+	<stdio.h>
+	<unistd.h>
+	<sys/wait.h>
+	<signal.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"Fonctions.h"
+
+1450106924 source:/home/dimtoky/Projet.final/Projet/ModeLangue.c
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Fonctions.h"
+

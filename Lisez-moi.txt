@@ -1,0 +1,5 @@
+La tour de hanoi est un executable indépendant,à ne pas compiler avec le shell
+
+dicoFR.txt,dicoEN.txt,dicoES.txt sont les dictionnaires du mode langage naturel
+
+dico2FR.txt,dico2EN.txt,dico2ES.txt sont les dictionnaires du mode pas à pas

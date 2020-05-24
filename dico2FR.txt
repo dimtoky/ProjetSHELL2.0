@@ -1,0 +1,27 @@
+1-gestion des processus
+2-gestion des repertoire
+3-gestion des fichiers
+4-gestion des periphériques
+5-gestion du shell
+1-afficher processus 
+2-afficher processus detaillé
+3-tuer processus
+0-Acceuil
+1-afficher repertoire
+2-afficher repertoire detaillé
+3-effacer repertoire
+4-montrer le chemin courant
+1-creer fichier
+2-effacer fichier
+3-ouvrir fichier
+4-editer fichier
+1-ejecter le disque
+1-configurer le shell 
+2-THE CAKE IS A LIE!!
+Votre choix
+Quel est le nom du processus?
+Quel est le nom du repertoire?
+Quel est le nom du fichier?
+Shell 2.0 : Mode Menu
+
+

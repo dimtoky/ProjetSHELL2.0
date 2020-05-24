@@ -1,0 +1,25 @@
+1-Process manager 
+2-directory manager
+3-FILE Manager
+4-Devices Manager
+5-Shell Manager
+1-Display manager
+2-Display detailed process
+3-Kill process
+0-Home
+1-Directory Display
+2-Display detailed derictory
+3-remove derecorty
+4-up the current path	
+1-Create a new file
+2-Remove a File
+3-Open File
+4-edit file 
+1-eject the disc
+1-Configure the Shell 
+2-THE CAKE IS A LIE!!
+your choice
+What Is the name of the process?
+What Is the name of the directory?
+What Is the name of the file?
+Shell 2.0: Menu Mode
